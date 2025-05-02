@@ -552,5 +552,3 @@ En ese momento, desde que el elemento llega a la parte superior y va a desaparec
 ![](../img/position%20sticky%203.png)
 
 ---
-
-Regresar al [README](../README.md)

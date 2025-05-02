@@ -168,5 +168,3 @@ src="https://lenguajecss.com/css/sombras/drop-shadow/batmanz.png" >
 ![](../img/filter%20drop-shadow%201.png)
 
 ---
-
-Regresar al [README](../README.md)

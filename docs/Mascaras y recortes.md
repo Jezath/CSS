@@ -513,5 +513,3 @@ La propiedad `mask-position` permite colocar la máscara de imagen y desplazarla
 ![](../img/mask-position.png)
 
 ---
-
-Regresar al [README](../README.md)

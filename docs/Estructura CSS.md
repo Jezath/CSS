@@ -26,5 +26,3 @@ El flujo intercalado es la forma en que fluye el texto en una oración. En un do
 ![flujointercalado](../img/flujo%20intercalado.png)
 
 ---
-
-Regresar al [README](../README.md)

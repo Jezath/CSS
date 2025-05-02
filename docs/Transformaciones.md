@@ -459,5 +459,3 @@ img.b-side {
 ![](../img/backface-visibility%202.png)
 
 ---
-
-Regresar al [README](../README.md)

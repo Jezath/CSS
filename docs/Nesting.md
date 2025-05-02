@@ -118,5 +118,3 @@ Es posible anidar reglas CSS en el interior de bloques de código CSS donde se a
 En este caso, el código del interior de la regla `@media` se le aplica al elemento `.container`, simplificando mucho la sintaxis y haciéndolo más fácil de organizar.
 
 ---
-
-Regresar al [README](../README.md)

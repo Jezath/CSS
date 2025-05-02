@@ -948,5 +948,3 @@ Podemos dejar espacios vacíos colocando un `.` en vez del nombre del área.
 ![](https://preview.redd.it/phlaefsgoeb71.png?auto=webp&s=6c245020cd1512a7327dc7904b459a0774c0991b)
 
 ---
-
-Regresar al [README](../README.md)

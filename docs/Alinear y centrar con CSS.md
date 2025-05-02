@@ -368,5 +368,3 @@ En este ejemplo, fijamos el tamaño de alto del contenedor para forzar a que pod
 En general, el soporte de `column-fill` es bueno en navegadores, sin embargo, cuidado con el soporte del valor `balance-all` que aún está en fase experimental.
 
 ---
-
-Regresar al [README](../README.md)

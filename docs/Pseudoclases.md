@@ -1205,5 +1205,3 @@ Algunos detalles interesantes sobre la pseudoclase funcional `:has()`:
 - La especificidad de `:has()` es el valor más alto de los selectores indicados por parámetro.
 
 ---
-
-Regresar al [README](../README.md)

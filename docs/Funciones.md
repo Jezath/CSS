@@ -114,5 +114,3 @@ Ejemplo: filter: blur(5px)
 Ejemplo: filter: grayscale(100%)
 
 ---
-
-Regresar al [README](../README.md)

@@ -375,5 +375,3 @@ textarea {
 Por su parte, el pseudoelemento `::grammar-error` es exactamente igual al anterior, sólo que se encarga de señalar los errores gramaticales del texto, y no los ortográficos.
 
 ---
-
-Regresar al [README](../README.md)

@@ -59,5 +59,3 @@ Cuando utilizamos la función `hue-rotate()`, proporcionaremos como parámetro u
 ![](https://lenguajecss.com/css/efectos/filtros-css/hue.png)
 
 ---
-
-Regresar al [README](../README.md)

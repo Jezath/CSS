@@ -556,5 +556,3 @@ h2 {
 ![](../img/fuentes%20tipografia.png)
 
 ---
-
-Regresar al [README](../README.md)

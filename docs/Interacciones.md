@@ -511,5 +511,3 @@ Define dónde se alinea el elemento dentro del contenedor.
 ![](../img/scroll-snap%203.png)
 
 ---
-
-Regresar al [README](../README.md)

@@ -227,5 +227,3 @@ li {
 ![](../img/list-style.png)
 
 ---
-
-Regresar al [README](../README.md)

@@ -311,5 +311,3 @@ Aplicamos estilos al elemento `<p>` con diferentes selectores y como podemos ver
 ![especificidad](../img/especificidad.png)
 
 ---
-
-Regresar al [README](../README.md)

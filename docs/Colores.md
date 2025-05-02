@@ -49,5 +49,3 @@ h2 {
 Otro valor que podemos usar como palabra clave es la de `transparent` que establece un color completamente transparente (valor por defecto de `background-color`).
 
 ---
-
-Regresar al [README](../README.md)

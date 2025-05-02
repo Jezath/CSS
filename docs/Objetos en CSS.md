@@ -157,5 +157,3 @@ Al pasar el puntero del ratón por encima hace zoom a la imágen.
 ![](../img/object-view-box.png)
 
 ---
-
-Regresar al [README](../README.md)

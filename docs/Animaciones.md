@@ -791,5 +791,3 @@ Las View Transition (Transiciones de vista) son un tipo de animación que se pro
 De esta forma, las animaciones mostradas son muy agradables, y simulan ser instantáneas aunque realmente estén recargando toda la página.
 
 ---
-
-Regresar al [README](../README.md)

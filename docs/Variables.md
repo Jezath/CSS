@@ -38,5 +38,3 @@ Otro ejemplo de como usar las variables:
 ```
 
 ---
-
-Regresar al [README](../README.md)

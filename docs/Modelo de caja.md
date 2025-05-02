@@ -328,7 +328,4 @@ Esta propiedad no corta de golpe el texto, si no que le da unos puntos suspensiv
 
 ![text-overflow](../img/text-overflow.png)
 
-
 ---
-
-Regresar al [README](../README.md)

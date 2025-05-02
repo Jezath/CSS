@@ -764,5 +764,3 @@ Observa los valores que puede tomar la propiedad `align-self`:
 ![](../img/Flex%20ejemplo%20contenedor%20flexible.png)
 
 ---
-
-Regresar al [README](../README.md)

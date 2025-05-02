@@ -650,5 +650,3 @@ De esta forma, si utilizamos `50cqw`, significa que va a establecer un tamaño d
 ```
 
 ---
-
-Regresar al [README](../README.md)

@@ -227,5 +227,3 @@ Si esto ocurre a menudo, el tamaño del documento CSS será más grande y tardar
 ![selectores](../img/selectorescombinados2.png)
 
 ---
-
-Regresar al [README](../README.md)

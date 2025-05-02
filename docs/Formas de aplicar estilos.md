@@ -44,5 +44,3 @@ La tercera forma de aplicar estilos en un documento HTML es el conocido como est
 ```
 
 ---
-
-Regresar al [README](../README.md)

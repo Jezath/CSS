@@ -133,5 +133,3 @@ Como se puede ver en la demo, el efecto de la propiedad opacity al 50% hace que 
 >**Nota:** Recuerda que la propiedad `opacity` afecta al elemento indicado y a todos sus hijos.
 
 ---
-
-Regresar al [README](../README.md)

@@ -104,5 +104,3 @@ El selector universal puede ser muy útil en algunos casos para resetear ciertas
 ```
 
 ---
-
-Regresar al [README](../README.md)

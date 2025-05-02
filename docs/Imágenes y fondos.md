@@ -474,5 +474,3 @@ Ejemplo 2 usando el atajo de `background` con múltiples imágenes:
 ![](../img/background%20ejemplo%204.png)
 
 ---
-
-Regresar al [README](../README.md)

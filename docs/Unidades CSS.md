@@ -250,5 +250,3 @@ main {
 ![medir](../img/medidas%20relativa%204.png)
 
 ---
-
-Regresar al [README](../README.md)
