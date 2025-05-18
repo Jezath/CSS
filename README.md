@@ -1,6 +1,6 @@
 # CSS
 
-CSS (Cascading Style Sheetes) en español "Hoja de estilo en cascada" es un lenguaje de diseño de estilado declartivo. Se usa para describir la presentación de un documento HTML.
+CSS (Cascading Style Sheetes) en español "Hoja de estilo en cascada" es un lenguaje de diseño de estilado declarativo. Se usa para describir la presentación de un documento HTML.
 
 ## Contenido
 
